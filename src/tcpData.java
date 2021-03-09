@@ -1,7 +1,5 @@
 /*
  * Author: Edward Herrin
- * Professor: Samuel Fryer
- * Course: CSCI 351.01
  * Date: 01/31/2020
  * Description: This class exists for the purpose of deriving and storing all of the information pertaining to the
  *  TCP packet.
